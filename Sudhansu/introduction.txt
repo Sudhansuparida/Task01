@@ -1,1 +1,6 @@
-Hi i am sudhansu parida
+Hi, I am Sudhansu Parida.
+I have completed my B.Tech from GIET University.
+I am passionate about Data Science, Python programming, and solving real-world problems using AI/ML.
+I am currently pursuing a Data Science course at Quality Thought and an internship at RamanaSoft to gain hands-on experience in real-world projects.
+
+
