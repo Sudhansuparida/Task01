@@ -1,0 +1,4 @@
+This file contains some additional details about me.
+I am highly motivated to build a career in Data Science.
+I enjoy working on Python, SQL, and Machine Learning projects.
+My long-term goal is to contribute to AI advancements and work with innovative companies like OpenAI.
